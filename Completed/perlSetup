@@ -1,0 +1,9 @@
+#!/usr/bin/perl
+# Ahmed AlJehairan
+# ahmed24633@gmail.com
+# GitHub: aj326
+use v5.10;
+use strict;
+#######################
+my $name = $ARGV[0];
+system `mkdir $name;cd $name; touch $name.pl $name.in $name.out; chmod +x $name.pl`;

@@ -1,0 +1,437 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc#"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://austin.craigslist.org/search/sss?format=rss&#x26;amp;query=fun&#x25;20fun&#x25;20fun&#x26;amp;s=0&#x26;amp;sort=rel">
+<title>craigslist austin | for sale / wanted search "fun fun fun"</title>
+<link>http://austin.craigslist.org/search/sss?query=fun&#x25;20fun&#x25;20fun&#x26;amp;s=0&#x26;amp;sort=rel</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2014 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://austin.craigslist.org/search/sss?format=rss&#x26;amp;query=fun&#x25;20fun&#x25;20fun&#x26;amp;s=0&#x26;amp;sort=rel</dc:source>
+<dc:title>craigslist austin | for sale / wanted search "fun fun fun"</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2014-08-08T10:49:51-05:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://austin.craigslist.org/spo/4581747724.html" />
+  <rdf:li rdf:resource="http://austin.craigslist.org/clt/4608682970.html" />
+  <rdf:li rdf:resource="http://austin.craigslist.org/bab/4584181589.html" />
+  <rdf:li rdf:resource="http://austin.craigslist.org/ctd/4608126213.html" />
+  <rdf:li rdf:resource="http://austin.craigslist.org/bab/4607441386.html" />
+  <rdf:li rdf:resource="http://austin.craigslist.org/spo/4585227995.html" />
+  <rdf:li rdf:resource="http://austin.craigslist.org/cto/4607115751.html" />
+  <rdf:li rdf:resource="http://austin.craigslist.org/for/4606600321.html" />
+  <rdf:li rdf:resource="http://austin.craigslist.org/bab/4606395620.html" />
+  <rdf:li rdf:resource="http://austin.craigslist.org/rvd/4561857446.html" />
+  <rdf:li rdf:resource="http://austin.craigslist.org/msg/4578480933.html" />
+  <rdf:li rdf:resource="http://austin.craigslist.org/fuo/4595660974.html" />
+  <rdf:li rdf:resource="http://austin.craigslist.org/bab/4605138279.html" />
+  <rdf:li rdf:resource="http://austin.craigslist.org/bar/4605086386.html" />
+  <rdf:li rdf:resource="http://austin.craigslist.org/tix/4604146179.html" />
+  <rdf:li rdf:resource="http://austin.craigslist.org/ele/4603150732.html" />
+  <rdf:li rdf:resource="http://austin.craigslist.org/boa/4602729928.html" />
+  <rdf:li rdf:resource="http://austin.craigslist.org/for/4587184557.html" />
+  <rdf:li rdf:resource="http://austin.craigslist.org/atq/4555733114.html" />
+  <rdf:li rdf:resource="http://austin.craigslist.org/tix/4601691910.html" />
+  <rdf:li rdf:resource="http://austin.craigslist.org/tag/4601181729.html" />
+  <rdf:li rdf:resource="http://austin.craigslist.org/boa/4583445378.html" />
+  <rdf:li rdf:resource="http://austin.craigslist.org/fod/4598316079.html" />
+  <rdf:li rdf:resource="http://austin.craigslist.org/bab/4593021087.html" />
+  <rdf:li rdf:resource="http://austin.craigslist.org/boa/4544609986.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://austin.craigslist.org/spo/4581747724.html">
+<title><![CDATA[Family fishing fun on the lake! Guided trips! (Calaveras/Braunig) &#x0024;225]]></title>
+<link>http://austin.craigslist.org/spo/4581747724.html</link>
+<description><![CDATA[Summer fun!! Bring the family.... Year round fishing at Calaveras/Braunig Lakes! 
+Professionally guided fishing trips. Trips available 7 days a week. 25 years experience. 
+$225.00 pays for a 4 hour trip with up to 5 people. Call to book your trip tod [...]]]></description>
+<dc:date>2014-08-08T07:58:06-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2014 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://austin.craigslist.org/spo/4581747724.html</dc:source>
+<dc:title><![CDATA[Family fishing fun on the lake! Guided trips! (Calaveras/Braunig) &#x0024;225]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00n0n_978hIMMiDF9_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2014-08-08T07:58:06-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://austin.craigslist.org/clt/4608682970.html">
+<title><![CDATA[Austin City Limits limited run poster - Fun.  (Far west) &#x0024;25]]></title>
+<link>http://austin.craigslist.org/clt/4608682970.html</link>
+<description><![CDATA[Fun. poster purchased at the Austin City Limits filming last year. Framed in one of those plastic frames from Michaels. Numbered. ]]></description>
+<dc:date>2014-08-07T22:40:33-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2014 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://austin.craigslist.org/clt/4608682970.html</dc:source>
+<dc:title><![CDATA[Austin City Limits limited run poster - Fun.  (Far west) &#x0024;25]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00C0C_i6zl5lV39HJ_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2014-08-07T22:40:33-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://austin.craigslist.org/bab/4584181589.html">
+<title><![CDATA[Fisher Price Galloping fun Jumperoo (leaner) &#x0024;60]]></title>
+<link>http://austin.craigslist.org/bab/4584181589.html</link>
+<description><![CDATA[Fisher price galloping fun jumperoo... winnies, neighs, clop clops, and plays shell be coming around the mountain. 
+$60 cash....may trade for a different jumperoo with all the toys!]]></description>
+<dc:date>2014-08-07T17:41:29-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2014 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://austin.craigslist.org/bab/4584181589.html</dc:source>
+<dc:title><![CDATA[Fisher Price Galloping fun Jumperoo (leaner) &#x0024;60]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00u0u_9iBbW1i82eO_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2014-08-07T17:41:29-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://austin.craigslist.org/ctd/4608126213.html">
+<title><![CDATA[SUN! FUN! WIND! in this CERTIFIED 2008 PONTIAC G6 GT with 66K MILES (College Station) &#x0024;14500]]></title>
+<link>http://austin.craigslist.org/ctd/4608126213.html</link>
+<description><![CDATA[GET READY FOR SUMMER with this CERTIFIED PRE-OWNED HARD TOP CONVERTIBLE with ONLY 66K MILES & EXTENDED COMPREHENSIVE WARRANTY INCLUDED!!~ 
+~CERTIFIED PRE-OWNED with WARRANTY~ 
+~POWER HARD TOP CONVERTIBLE!~ 
+~SUPER SPORTY~PERFECT FOR SUMMER!~ 
+~ONLY 6 [...]]]></description>
+<dc:date>2014-08-07T15:39:50-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2014 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://austin.craigslist.org/ctd/4608126213.html</dc:source>
+<dc:title><![CDATA[SUN! FUN! WIND! in this CERTIFIED 2008 PONTIAC G6 GT with 66K MILES (College Station) &#x0024;14500]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/01515_fi1Z8bQ7K9R_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2014-08-07T15:39:50-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://austin.craigslist.org/bab/4607441386.html">
+<title><![CDATA[Evenflo ExerSaucer Double Fun - Pink Bumbly (Leander, TX) &#x0024;65]]></title>
+<link>http://austin.craigslist.org/bab/4607441386.html</link>
+<description><![CDATA[The Evenflo ExerSaucer Double Fun Saucer - Pink Bumbly provides a variety of fun, physical activities that promote healthy development and a love of movement. This dual-function saucer can be used as a play mat to help infants build their core and ne [...]]]></description>
+<dc:date>2014-08-07T09:58:10-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2014 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://austin.craigslist.org/bab/4607441386.html</dc:source>
+<dc:title><![CDATA[Evenflo ExerSaucer Double Fun - Pink Bumbly (Leander, TX) &#x0024;65]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00H0H_bi3mEw7Uwjd_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2014-08-07T09:58:10-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://austin.craigslist.org/spo/4585227995.html">
+<title><![CDATA[Family fishing fun on the lake! Guided trips! (Calaveras/Braunig) &#x0024;225]]></title>
+<link>http://austin.craigslist.org/spo/4585227995.html</link>
+<description><![CDATA[Summertime Fun on the Calaveras/Braunig Lakes. Minutes away from San Antonio!! 
+Bring the family.... Professionally guided fishing trips. 
+Trips available 7 days a week. 25 years experience. 
+$225.00 pays for a 4 hour trip with up to 5 people. Call t [...]]]></description>
+<dc:date>2014-08-07T08:07:32-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2014 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://austin.craigslist.org/spo/4585227995.html</dc:source>
+<dc:title><![CDATA[Family fishing fun on the lake! Guided trips! (Calaveras/Braunig) &#x0024;225]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00n0n_978hIMMiDF9_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2014-08-07T08:07:32-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://austin.craigslist.org/cto/4607115751.html">
+<title><![CDATA[Fun Silver mr2 Spyder  &#x0024;5400]]></title>
+<link>http://austin.craigslist.org/cto/4607115751.html</link>
+<description><![CDATA[We are moving north and cannot take our beloved convertible. It's a really fun and stylish car to drive. It's priced low to offset optional repairs. A complete buyers check is available upon request. We're being completely transparent here because we [...]]]></description>
+<dc:date>2014-08-07T00:20:35-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2014 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://austin.craigslist.org/cto/4607115751.html</dc:source>
+<dc:title><![CDATA[Fun Silver mr2 Spyder  &#x0024;5400]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/01616_5E3EnPgta7K_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2014-08-07T00:20:35-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://austin.craigslist.org/for/4606600321.html">
+<title><![CDATA[Gift Card - Just For Fun $100 &#x0024;80]]></title>
+<link>http://austin.craigslist.org/for/4606600321.html</link>
+<description><![CDATA[Looking to sell my Just for Fun gift card. It's worth $100. Can be verified. Asking for $80 or best offer. ]]></description>
+<dc:date>2014-08-06T16:54:52-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2014 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://austin.craigslist.org/for/4606600321.html</dc:source>
+<dc:title><![CDATA[Gift Card - Just For Fun $100 &#x0024;80]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2014-08-06T16:54:52-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://austin.craigslist.org/bab/4606395620.html">
+<title><![CDATA[VEGGIETALES DVD LOT OF 5 Hours of safe fun (Lakeway, Bee Cave, Austin)]]></title>
+<link>http://austin.craigslist.org/bab/4606395620.html</link>
+<description><![CDATA[VEGGIETALES DVD LOT OF 5. Hours of safe fun 
+Serious Buyers Only 
+$20 or Best Offer. Cash Only 
+Please email your phone number to make sure you are not spam. Thanks 
+http://store.veggietales.com/dvds-shows/veggietales.html]]></description>
+<dc:date>2014-08-06T14:58:16-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2014 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://austin.craigslist.org/bab/4606395620.html</dc:source>
+<dc:title><![CDATA[VEGGIETALES DVD LOT OF 5 Hours of safe fun (Lakeway, Bee Cave, Austin)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00K0K_3b2WQaTUX1o_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2014-08-06T14:58:16-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://austin.craigslist.org/rvd/4561857446.html">
+<title><![CDATA[2007 Four Winds Fun Mover (West Seguin) &#x0024;69988]]></title>
+<link>http://austin.craigslist.org/rvd/4561857446.html</link>
+<description><![CDATA[2007 Four Winds Fun Mover Copy and paste this link into your browser to view more information about this vehicle:
+http://www.southtexasfuncenter.com/lc/764270 
+ <a href="/fb/aus/rvd/4561857446" class="showcontact" title="click to show contact info">show contact info</a>
+
+2 slides ,Onan Diesel gen, pwr rear gate,back up camera, auto level jacks. 
+V [...]]]></description>
+<dc:date>2014-08-06T12:42:03-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2014 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://austin.craigslist.org/rvd/4561857446.html</dc:source>
+<dc:title><![CDATA[2007 Four Winds Fun Mover (West Seguin) &#x0024;69988]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00Q0Q_587WjeEO8ow_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2014-08-06T12:42:03-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://austin.craigslist.org/msg/4578480933.html">
+<title><![CDATA[CONN Minuet Organ : Fun For the Whole Family! (Leander) &#x0024;175]]></title>
+<link>http://austin.craigslist.org/msg/4578480933.html</link>
+<description><![CDATA[Downsizing personal possessions! Call
+ <a href="/fb/aus/msg/4578480933" class="showcontact" title="click to show contact info">show contact info</a>
+or
+ <a href="/fb/aus/msg/4578480933" class="showcontact" title="click to show contact info">show contact info</a>
+(cell ) for more information. 
+CONN Minuet Organ $175 including pipes! 
+This organ works perfectly! Fun for the whole family! Comes with hinged bench and music books. (Not shown) 
+Ca [...]]]></description>
+<dc:date>2014-08-06T10:24:27-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2014 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://austin.craigslist.org/msg/4578480933.html</dc:source>
+<dc:title><![CDATA[CONN Minuet Organ : Fun For the Whole Family! (Leander) &#x0024;175]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00V0V_7bSOrd3ybAL_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2014-08-06T10:24:27-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://austin.craigslist.org/fuo/4595660974.html">
+<title><![CDATA[FUN~ FUNKY ~ Antique Chair (Georgetown) &#x0024;49]]></title>
+<link>http://austin.craigslist.org/fuo/4595660974.html</link>
+<description><![CDATA[Unique Fun Chair - Antique Solid Wood - Very Sturdy - Front Wheels 
+Great the way it is but could also be recovered . . . painted . . . refinished! You decide!! 
+Measures: 
+33" Tall 
+18" Wide 
+17" Deep 
+14.5" - Floor to Seat 
+Asking: $49 
+Cash Only 
+ [...]]]></description>
+<dc:date>2014-08-05T22:02:51-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2014 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://austin.craigslist.org/fuo/4595660974.html</dc:source>
+<dc:title><![CDATA[FUN~ FUNKY ~ Antique Chair (Georgetown) &#x0024;49]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00f0f_3MEpJKWvUWb_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2014-08-05T22:02:51-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://austin.craigslist.org/bab/4605138279.html">
+<title><![CDATA[ExerSaucer� Triple Fun� Active Learning Center� Animal Planet (south Austin) &#x0024;75]]></title>
+<link>http://austin.craigslist.org/bab/4605138279.html</link>
+<description><![CDATA[My son finally outgrew this so we're trying to free up some space in our baby toy-filled house! 
+Very clean. Everything works perfectly. Still have all of the pieces. 
+I live in Kyle but work in south Austin so pickup in either location can be arrang [...]]]></description>
+<dc:date>2014-08-05T19:24:08-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2014 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://austin.craigslist.org/bab/4605138279.html</dc:source>
+<dc:title><![CDATA[ExerSaucer� Triple Fun� Active Learning Center� Animal Planet (south Austin) &#x0024;75]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00000_l2s1WgudNyT_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2014-08-05T19:24:08-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://austin.craigslist.org/bar/4605086386.html">
+<title><![CDATA[1982 glastron ski boat fast and fun (round rock) &#x0024;1800]]></title>
+<link>http://austin.craigslist.org/bar/4605086386.html</link>
+<description><![CDATA[What you got looking for a pop up camper or fun things with motors for my kids or a 3seater jet ski pool table fun stuff]]></description>
+<dc:date>2014-08-05T18:47:22-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2014 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://austin.craigslist.org/bar/4605086386.html</dc:source>
+<dc:title><![CDATA[1982 glastron ski boat fast and fun (round rock) &#x0024;1800]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00505_dMpNRrGdIOr_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2014-08-05T18:47:22-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://austin.craigslist.org/tix/4604146179.html">
+<title><![CDATA[Fun Fun Fun Fest 3-day Pass &#x0024;190]]></title>
+<link>http://austin.craigslist.org/tix/4604146179.html</link>
+<description><![CDATA[One FFF9 3-day Pass available for $190 or best offer. ]]></description>
+<dc:date>2014-08-05T10:22:29-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2014 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://austin.craigslist.org/tix/4604146179.html</dc:source>
+<dc:title><![CDATA[Fun Fun Fun Fest 3-day Pass &#x0024;190]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2014-08-05T10:22:29-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://austin.craigslist.org/ele/4603150732.html">
+<title><![CDATA[Fun TV's (Pflugerville) &#x0024;50]]></title>
+<link>http://austin.craigslist.org/ele/4603150732.html</link>
+<description><![CDATA[Fun TV's for the car. Attaches to the seat and plays off VCR or DVD player. I have 2. $50 each or both for $80.]]></description>
+<dc:date>2014-08-04T16:34:22-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2014 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://austin.craigslist.org/ele/4603150732.html</dc:source>
+<dc:title><![CDATA[Fun TV's (Pflugerville) &#x0024;50]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00U0U_1tezVdyt9RY_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2014-08-04T16:34:22-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://austin.craigslist.org/boa/4602729928.html">
+<title><![CDATA[Sprint Fun Sport 21.5 - Reduced Price (NW Austin (620)) &#x0024;7900]]></title>
+<link>http://austin.craigslist.org/boa/4602729928.html</link>
+<description><![CDATA[* if interested, please text or call. No emails will be responded to - unfortunately there are too many spammers out there ** 
+I have a Sprint Fun Sport for sale. This boat has a 175 hp Johnson 2-stroke fast strike engine with a stainless steel prop. [...]]]></description>
+<dc:date>2014-08-04T15:00:25-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2014 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://austin.craigslist.org/boa/4602729928.html</dc:source>
+<dc:title><![CDATA[Sprint Fun Sport 21.5 - Reduced Price (NW Austin (620)) &#x0024;7900]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00K0K_a32cL6YTdeK_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2014-08-04T15:00:25-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://austin.craigslist.org/for/4587184557.html">
+<title><![CDATA[SPRINGY METAL GARDEN FUN DOG ORNAMENT (NW AUSTIN) &#x0024;40]]></title>
+<link>http://austin.craigslist.org/for/4587184557.html</link>
+<description><![CDATA[SPRINGY METAL GARDEN FUN DOG ORNAMENTS. THREE PIECES ARE AVAILABLE. YOU MAY BUY ONE PIECE FOR $40.00 or ALL THREE PIECES for $100.00. On all three pieces both the tails and heads of the ornaments move in the breeze attached to the bodies by metal coi [...]]]></description>
+<dc:date>2014-08-04T14:21:12-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2014 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://austin.craigslist.org/for/4587184557.html</dc:source>
+<dc:title><![CDATA[SPRINGY METAL GARDEN FUN DOG ORNAMENT (NW AUSTIN) &#x0024;40]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00L0L_7mt8kCkvb65_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2014-08-04T14:21:12-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://austin.craigslist.org/atq/4555733114.html">
+<title><![CDATA[Antique Chair - Fun &amp; Unique (Georgetown Area) &#x0024;49]]></title>
+<link>http://austin.craigslist.org/atq/4555733114.html</link>
+<description><![CDATA[Unique Fun Chair - Antique Solid Wood - Very Sturdy - Front Wheels 
+Great the way it is but could also be recovered . . . painted . . . refinished! You decide!! 
+Measures: 
+33" Tall 
+18" Wide 
+17" Deep 
+14.5" - Floor to Seat 
+Asking: $49 
+Cash Only 
+ [...]]]></description>
+<dc:date>2014-08-03T21:33:43-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2014 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://austin.craigslist.org/atq/4555733114.html</dc:source>
+<dc:title><![CDATA[Antique Chair - Fun &amp; Unique (Georgetown Area) &#x0024;49]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00p0p_fhPMKtMoPSQ_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2014-08-03T21:33:43-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://austin.craigslist.org/tix/4601691910.html">
+<title><![CDATA[fun fun fun show Nov 8&amp;9 Austin &#x0024;140]]></title>
+<link>http://austin.craigslist.org/tix/4601691910.html</link>
+<description><![CDATA[http://funfunfunfest.com/ 
+sat & sun tickets (november 9th and 10th). i'm in northern California and was going to attend, but cant now. tix values at $170 ]]></description>
+<dc:date>2014-08-03T19:08:20-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2014 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://austin.craigslist.org/tix/4601691910.html</dc:source>
+<dc:title><![CDATA[fun fun fun show Nov 8&amp;9 Austin &#x0024;140]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2014-08-03T19:08:20-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://austin.craigslist.org/tag/4601181729.html">
+<title><![CDATA[Fun and Learning laptops and toys (nw austin) &#x0024;10]]></title>
+<link>http://austin.craigslist.org/tag/4601181729.html</link>
+<description><![CDATA[Few educational , fun and learning toys: 
+- Vtech Thomas & Friends laptop; learn numbers, letters and music: $10 
+- Vtech Tote & Go Laptop Plus; letters, numbers, game and music: $10 
+- Vtech SpongeBob Laptop; word challenge, math, logic, creativity  [...]]]></description>
+<dc:date>2014-08-03T13:20:26-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2014 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://austin.craigslist.org/tag/4601181729.html</dc:source>
+<dc:title><![CDATA[Fun and Learning laptops and toys (nw austin) &#x0024;10]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00l0l_8VuO3IHjh41_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2014-08-03T13:20:26-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://austin.craigslist.org/boa/4583445378.html">
+<title><![CDATA[- S K I / F I S H / FUN - 1998 Starcraft Ski Boat 17' - !  (620 (Steiner ranch)) &#x0024;2550]]></title>
+<link>http://austin.craigslist.org/boa/4583445378.html</link>
+<description><![CDATA[For sale: 1998 Starcraft 17' V-hull ski/fish/fun! Please do not low ball me. This boat is worth about $45-5k. This is why it is priced accordingly. 
+PLEASE READ AD CAREFULLY before calling/texting. I will list As much info as possible. 
+BAD: the boat [...]]]></description>
+<dc:date>2014-08-02T07:04:12-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2014 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://austin.craigslist.org/boa/4583445378.html</dc:source>
+<dc:title><![CDATA[- S K I / F I S H / FUN - 1998 Starcraft Ski Boat 17' - !  (620 (Steiner ranch)) &#x0024;2550]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00F0F_cvN4EMi7kY9_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2014-08-02T07:04:12-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://austin.craigslist.org/fod/4598316079.html">
+<title><![CDATA[FUN FOR THE WHOLE FAMILY    (We Deliver &amp; Install)  ((****Anywhere****))]]></title>
+<link>http://austin.craigslist.org/fod/4598316079.html</link>
+<description><![CDATA[Today, your child will go to the moon. Tomorrow, to the center ring of the circus. Last week, they were sailing the seven seas with their imagination engaged on their Glick's Woodworking custom play system. 
+Imagine any Dream with Glick's Woodworking [...]]]></description>
+<dc:date>2014-08-01T14:32:09-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2014 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://austin.craigslist.org/fod/4598316079.html</dc:source>
+<dc:title><![CDATA[FUN FOR THE WHOLE FAMILY    (We Deliver &amp; Install)  ((****Anywhere****))]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00V0V_8uflMjmSxyl_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2014-08-01T14:32:09-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://austin.craigslist.org/bab/4593021087.html">
+<title><![CDATA[Fisher-Price Baby Bouncer - Forest Fun  &#x0024;10]]></title>
+<link>http://austin.craigslist.org/bab/4593021087.html</link>
+<description><![CDATA[Fisher Price bouncer $10 
+http://www.target.com/p/fisher-price-baby-bouncer-forest-fun/-/A-14297076?ref=tgt_adv_XSG10001&AFID=google_pla_df&LNM=14297076&CPNG=Baby&kpid=14297076&LID=9pgs&ci_src=17588969&ci_sku=14297076&kpid=14297076&gclid=CJnZ_obz6r8C [...]]]></description>
+<dc:date>2014-07-29T11:11:20-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2014 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://austin.craigslist.org/bab/4593021087.html</dc:source>
+<dc:title><![CDATA[Fisher-Price Baby Bouncer - Forest Fun  &#x0024;10]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00H0H_8qaDxwzGl4n_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2014-07-29T11:11:20-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://austin.craigslist.org/boa/4544609986.html">
+<title><![CDATA[One of A Kind, FUN BOAT &#x0024;3000]]></title>
+<link>http://austin.craigslist.org/boa/4544609986.html</link>
+<description><![CDATA[ONE OF A KIND AND HARD TO FIND "FUN BOAT" - THIS IS A 1987 BUILT RACING BOAT. IT COMES WITH A 25 HP, 2 CYCLE MERCURY OUT BOARD MOTOR. IT IS A TWO SEATER AND HAS A KEY IGNITION START. THE 5 GALLON FUEL OIL MIXED SYSTEM WILL KEEP YOU OUT ON THE WATER F [...]]]></description>
+<dc:date>2014-07-27T13:39:28-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2014 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://austin.craigslist.org/boa/4544609986.html</dc:source>
+<dc:title><![CDATA[One of A Kind, FUN BOAT &#x0024;3000]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00d0d_eVTKTZSqrwK_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2014-07-27T13:39:28-05:00</dcterms:issued>
+</item>
+</rdf:RDF>[[{"link":"http://austin.craigslist.org/spo/4581747724.html","dc:title":"Family fishing fun on the lake! Guided trips! (Calaveras/Braunig) &#x0024;225","dc:type":"text","dc:language":"en-us","dc:date":"2014-08-08T07:58:06-05:00","description":"Summer fun!! Bring the family.... Year round fishing at Calaveras/Braunig Lakes! \nProfessionally guided fishing trips. Trips available 7 days a week. 25 years experience. \n$225.00 pays for a 4 hour trip with up to 5 people. Call to book your trip tod [...]","dc:rights":"&copy; 2014 <span class=\"desktop\">craigslist</span><span class=\"mobile\">CL</span>","rdf:about":"http://austin.craigslist.org/spo/4581747724.html","dc:source":"http://austin.craigslist.org/spo/4581747724.html","enc:enclosure":{"resource":"http://images.craigslist.org/00n0n_978hIMMiDF9_300x300.jpg","type":"image/jpeg"},"title":"Family fishing fun on the lake! Guided trips! (Calaveras/Braunig) &#x0024;225","dcterms:issued":"2014-08-08T07:58:06-05:00"},{"link":"http://austin.craigslist.org/clt/4608682970.html","dc:title":"Austin City Limits limited run poster - Fun.  (Far west) &#x0024;25","dc:type":"text","dc:language":"en-us","dc:date":"2014-08-07T22:40:33-05:00","description":"Fun. poster purchased at the Austin City Limits filming last year. Framed in one of those plastic frames from Michaels. Numbered. ","dc:rights":"&copy; 2014 <span class=\"desktop\">craigslist</span><span class=\"mobile\">CL</span>","rdf:about":"http://austin.craigslist.org/clt/4608682970.html","dc:source":"http://austin.craigslist.org/clt/4608682970.html","enc:enclosure":{"resource":"http://images.craigslist.org/00C0C_i6zl5lV39HJ_300x300.jpg","type":"image/jpeg"},"title":"Austin City Limits limited run poster - Fun.  (Far west) &#x0024;25","dcterms:issued":"2014-08-07T22:40:33-05:00"},{"link":"http://austin.craigslist.org/bab/4584181589.html","dc:title":"Fisher Price Galloping fun Jumperoo (leaner) &#x0024;60","dc:type":"text","dc:language":"en-us","dc:date":"2014-08-07T17:41:29-05:00","description":"Fisher price galloping fun jumperoo... winnies, neighs, clop clops, and plays shell be coming around the mountain. \n$60 cash....may trade for a different jumperoo with all the toys!","dc:rights":"&copy; 2014 <span class=\"desktop\">craigslist</span><span class=\"mobile\">CL</span>","rdf:about":"http://austin.craigslist.org/bab/4584181589.html","dc:source":"http://austin.craigslist.org/bab/4584181589.html","enc:enclosure":{"resource":"http://images.craigslist.org/00u0u_9iBbW1i82eO_300x300.jpg","type":"image/jpeg"},"title":"Fisher Price Galloping fun Jumperoo (leaner) &#x0024;60","dcterms:issued":"2014-08-07T17:41:29-05:00"},{"link":"http://austin.craigslist.org/ctd/4608126213.html","dc:title":"SUN! FUN! WIND! in this CERTIFIED 2008 PONTIAC G6 GT with 66K MILES (College Station) &#x0024;14500","dc:type":"text","dc:language":"en-us","dc:date":"2014-08-07T15:39:50-05:00","description":"GET READY FOR SUMMER with this CERTIFIED PRE-OWNED HARD TOP CONVERTIBLE with ONLY 66K MILES & EXTENDED COMPREHENSIVE WARRANTY INCLUDED!!~ \n~CERTIFIED PRE-OWNED with WARRANTY~ \n~POWER HARD TOP CONVERTIBLE!~ \n~SUPER SPORTY~PERFECT FOR SUMMER!~ \n~ONLY 6 [...]","dc:rights":"&copy; 2014 <span class=\"desktop\">craigslist</span><span class=\"mobile\">CL</span>","rdf:about":"http://austin.craigslist.org/ctd/4608126213.html","dc:source":"http://austin.craigslist.org/ctd/4608126213.html","enc:enclosure":{"resource":"http://images.craigslist.org/01515_fi1Z8bQ7K9R_300x300.jpg","type":"image/jpeg"},"title":"SUN! FUN! WIND! in this CERTIFIED 2008 PONTIAC G6 GT with 66K MILES (College Station) &#x0024;14500","dcterms:issued":"2014-08-07T15:39:50-05:00"},{"link":"http://austin.craigslist.org/bab/4607441386.html","dc:title":"Evenflo ExerSaucer Double Fun - Pink Bumbly (Leander, TX) &#x0024;65","dc:type":"text","dc:language":"en-us","dc:date":"2014-08-07T09:58:10-05:00","description":"The Evenflo ExerSaucer Double Fun Saucer - Pink Bumbly provides a variety of fun, physical activities that promote healthy development and a love of movement. This dual-function saucer can be used as a play mat to help infants build their core and ne [...]","dc:rights":"&copy; 2014 <span class=\"desktop\">craigslist</span><span class=\"mobile\">CL</span>","rdf:about":"http://austin.craigslist.org/bab/4607441386.html","dc:source":"http://austin.craigslist.org/bab/4607441386.html","enc:enclosure":{"resource":"http://images.craigslist.org/00H0H_bi3mEw7Uwjd_300x300.jpg","type":"image/jpeg"},"title":"Evenflo ExerSaucer Double Fun - Pink Bumbly (Leander, TX) &#x0024;65","dcterms:issued":"2014-08-07T09:58:10-05:00"},{"link":"http://austin.craigslist.org/spo/4585227995.html","dc:title":"Family fishing fun on the lake! Guided trips! (Calaveras/Braunig) &#x0024;225","dc:type":"text","dc:language":"en-us","dc:date":"2014-08-07T08:07:32-05:00","description":"Summertime Fun on the Calaveras/Braunig Lakes. Minutes away from San Antonio!! \nBring the family.... Professionally guided fishing trips. \nTrips available 7 days a week. 25 years experience. \n$225.00 pays for a 4 hour trip with up to 5 people. Call t [...]","dc:rights":"&copy; 2014 <span class=\"desktop\">craigslist</span><span class=\"mobile\">CL</span>","rdf:about":"http://austin.craigslist.org/spo/4585227995.html","dc:source":"http://austin.craigslist.org/spo/4585227995.html","enc:enclosure":{"resource":"http://images.craigslist.org/00n0n_978hIMMiDF9_300x300.jpg","type":"image/jpeg"},"title":"Family fishing fun on the lake! Guided trips! (Calaveras/Braunig) &#x0024;225","dcterms:issued":"2014-08-07T08:07:32-05:00"},{"link":"http://austin.craigslist.org/cto/4607115751.html","dc:title":"Fun Silver mr2 Spyder  &#x0024;5400","dc:type":"text","dc:language":"en-us","dc:date":"2014-08-07T00:20:35-05:00","description":"We are moving north and cannot take our beloved convertible. It's a really fun and stylish car to drive. It's priced low to offset optional repairs. A complete buyers check is available upon request. We're being completely transparent here because we [...]","dc:rights":"&copy; 2014 <span class=\"desktop\">craigslist</span><span class=\"mobile\">CL</span>","rdf:about":"http://austin.craigslist.org/cto/4607115751.html","dc:source":"http://austin.craigslist.org/cto/4607115751.html","enc:enclosure":{"resource":"http://images.craigslist.org/01616_5E3EnPgta7K_300x300.jpg","type":"image/jpeg"},"title":"Fun Silver mr2 Spyder  &#x0024;5400","dcterms:issued":"2014-08-07T00:20:35-05:00"},{"link":"http://austin.craigslist.org/for/4606600321.html","dc:title":"Gift Card - Just For Fun $100 &#x0024;80","dc:type":"text","dc:language":"en-us","dc:date":"2014-08-06T16:54:52-05:00","description":"Looking to sell my Just for Fun gift card. It's worth $100. Can be verified. Asking for $80 or best offer. ","dc:rights":"&copy; 2014 <span class=\"desktop\">craigslist</span><span class=\"mobile\">CL</span>","rdf:about":"http://austin.craigslist.org/for/4606600321.html","dc:source":"http://austin.craigslist.org/for/4606600321.html","title":"Gift Card - Just For Fun $100 &#x0024;80","dcterms:issued":"2014-08-06T16:54:52-05:00"},{"link":"http://austin.craigslist.org/bab/4606395620.html","dc:title":"VEGGIETALES DVD LOT OF 5 Hours of safe fun (Lakeway, Bee Cave, Austin)","dc:type":"text","dc:language":"en-us","dc:date":"2014-08-06T14:58:16-05:00","description":"VEGGIETALES DVD LOT OF 5. Hours of safe fun \nSerious Buyers Only \n$20 or Best Offer. Cash Only \nPlease email your phone number to make sure you are not spam. Thanks \nhttp://store.veggietales.com/dvds-shows/veggietales.html","dc:rights":"&copy; 2014 <span class=\"desktop\">craigslist</span><span class=\"mobile\">CL</span>","rdf:about":"http://austin.craigslist.org/bab/4606395620.html","dc:source":"http://austin.craigslist.org/bab/4606395620.html","enc:enclosure":{"resource":"http://images.craigslist.org/00K0K_3b2WQaTUX1o_300x300.jpg","type":"image/jpeg"},"title":"VEGGIETALES DVD LOT OF 5 Hours of safe fun (Lakeway, Bee Cave, Austin)","dcterms:issued":"2014-08-06T14:58:16-05:00"},{"link":"http://austin.craigslist.org/rvd/4561857446.html","dc:title":"2007 Four Winds Fun Mover (West Seguin) &#x0024;69988","dc:type":"text","dc:language":"en-us","dc:date":"2014-08-06T12:42:03-05:00","description":"2007 Four Winds Fun Mover Copy and paste this link into your browser to view more information about this vehicle:\nhttp://www.southtexasfuncenter.com/lc/764270 \n <a href=\"/fb/aus/rvd/4561857446\" class=\"showcontact\" title=\"click to show contact info\">show contact info</a>\n\n2 slides ,Onan Diesel gen, pwr rear gate,back up camera, auto level jacks. \nV [...]","dc:rights":"&copy; 2014 <span class=\"desktop\">craigslist</span><span class=\"mobile\">CL</span>","rdf:about":"http://austin.craigslist.org/rvd/4561857446.html","dc:source":"http://austin.craigslist.org/rvd/4561857446.html","enc:enclosure":{"resource":"http://images.craigslist.org/00Q0Q_587WjeEO8ow_300x300.jpg","type":"image/jpeg"},"title":"2007 Four Winds Fun Mover (West Seguin) &#x0024;69988","dcterms:issued":"2014-08-06T12:42:03-05:00"},{"link":"http://austin.craigslist.org/msg/4578480933.html","dc:title":"CONN Minuet Organ : Fun For the Whole Family! (Leander) &#x0024;175","dc:type":"text","dc:language":"en-us","dc:date":"2014-08-06T10:24:27-05:00","description":"Downsizing personal possessions! Call\n <a href=\"/fb/aus/msg/4578480933\" class=\"showcontact\" title=\"click to show contact info\">show contact info</a>\nor\n <a href=\"/fb/aus/msg/4578480933\" class=\"showcontact\" title=\"click to show contact info\">show contact info</a>\n(cell ) for more information. \nCONN Minuet Organ $175 including pipes! \nThis organ works perfectly! Fun for the whole family! Comes with hinged bench and music books. (Not shown) \nCa [...]","dc:rights":"&copy; 2014 <span class=\"desktop\">craigslist</span><span class=\"mobile\">CL</span>","rdf:about":"http://austin.craigslist.org/msg/4578480933.html","dc:source":"http://austin.craigslist.org/msg/4578480933.html","enc:enclosure":{"resource":"http://images.craigslist.org/00V0V_7bSOrd3ybAL_300x300.jpg","type":"image/jpeg"},"title":"CONN Minuet Organ : Fun For the Whole Family! (Leander) &#x0024;175","dcterms:issued":"2014-08-06T10:24:27-05:00"},{"link":"http://austin.craigslist.org/fuo/4595660974.html","dc:title":"FUN~ FUNKY ~ Antique Chair (Georgetown) &#x0024;49","dc:type":"text","dc:language":"en-us","dc:date":"2014-08-05T22:02:51-05:00","description":"Unique Fun Chair - Antique Solid Wood - Very Sturdy - Front Wheels \nGreat the way it is but could also be recovered . . . painted . . . refinished! You decide!! \nMeasures: \n33\" Tall \n18\" Wide \n17\" Deep \n14.5\" - Floor to Seat \nAsking: $49 \nCash Only \n [...]","dc:rights":"&copy; 2014 <span class=\"desktop\">craigslist</span><span class=\"mobile\">CL</span>","rdf:about":"http://austin.craigslist.org/fuo/4595660974.html","dc:source":"http://austin.craigslist.org/fuo/4595660974.html","enc:enclosure":{"resource":"http://images.craigslist.org/00f0f_3MEpJKWvUWb_300x300.jpg","type":"image/jpeg"},"title":"FUN~ FUNKY ~ Antique Chair (Georgetown) &#x0024;49","dcterms:issued":"2014-08-05T22:02:51-05:00"},{"link":"http://austin.craigslist.org/bab/4605138279.html","dc:title":"ExerSaucer� Triple Fun� Active Learning Center� Animal Planet (south Austin) &#x0024;75","dc:type":"text","dc:language":"en-us","dc:date":"2014-08-05T19:24:08-05:00","description":"My son finally outgrew this so we're trying to free up some space in our baby toy-filled house! \nVery clean. Everything works perfectly. Still have all of the pieces. \nI live in Kyle but work in south Austin so pickup in either location can be arrang [...]","dc:rights":"&copy; 2014 <span class=\"desktop\">craigslist</span><span class=\"mobile\">CL</span>","rdf:about":"http://austin.craigslist.org/bab/4605138279.html","dc:source":"http://austin.craigslist.org/bab/4605138279.html","enc:enclosure":{"resource":"http://images.craigslist.org/00000_l2s1WgudNyT_300x300.jpg","type":"image/jpeg"},"title":"ExerSaucer� Triple Fun� Active Learning Center� Animal Planet (south Austin) &#x0024;75","dcterms:issued":"2014-08-05T19:24:08-05:00"},{"link":"http://austin.craigslist.org/bar/4605086386.html","dc:title":"1982 glastron ski boat fast and fun (round rock) &#x0024;1800","dc:type":"text","dc:language":"en-us","dc:date":"2014-08-05T18:47:22-05:00","description":"What you got looking for a pop up camper or fun things with motors for my kids or a 3seater jet ski pool table fun stuff","dc:rights":"&copy; 2014 <span class=\"desktop\">craigslist</span><span class=\"mobile\">CL</span>","rdf:about":"http://austin.craigslist.org/bar/4605086386.html","dc:source":"http://austin.craigslist.org/bar/4605086386.html","enc:enclosure":{"resource":"http://images.craigslist.org/00505_dMpNRrGdIOr_300x300.jpg","type":"image/jpeg"},"title":"1982 glastron ski boat fast and fun (round rock) &#x0024;1800","dcterms:issued":"2014-08-05T18:47:22-05:00"},{"link":"http://austin.craigslist.org/tix/4604146179.html","dc:title":"Fun Fun Fun Fest 3-day Pass &#x0024;190","dc:type":"text","dc:language":"en-us","dc:date":"2014-08-05T10:22:29-05:00","description":"One FFF9 3-day Pass available for $190 or best offer. ","dc:rights":"&copy; 2014 <span class=\"desktop\">craigslist</span><span class=\"mobile\">CL</span>","rdf:about":"http://austin.craigslist.org/tix/4604146179.html","dc:source":"http://austin.craigslist.org/tix/4604146179.html","title":"Fun Fun Fun Fest 3-day Pass &#x0024;190","dcterms:issued":"2014-08-05T10:22:29-05:00"},{"link":"http://austin.craigslist.org/ele/4603150732.html","dc:title":"Fun TV's (Pflugerville) &#x0024;50","dc:type":"text","dc:language":"en-us","dc:date":"2014-08-04T16:34:22-05:00","description":"Fun TV's for the car. Attaches to the seat and plays off VCR or DVD player. I have 2. $50 each or both for $80.","dc:rights":"&copy; 2014 <span class=\"desktop\">craigslist</span><span class=\"mobile\">CL</span>","rdf:about":"http://austin.craigslist.org/ele/4603150732.html","dc:source":"http://austin.craigslist.org/ele/4603150732.html","enc:enclosure":{"resource":"http://images.craigslist.org/00U0U_1tezVdyt9RY_300x300.jpg","type":"image/jpeg"},"title":"Fun TV's (Pflugerville) &#x0024;50","dcterms:issued":"2014-08-04T16:34:22-05:00"},{"link":"http://austin.craigslist.org/boa/4602729928.html","dc:title":"Sprint Fun Sport 21.5 - Reduced Price (NW Austin (620)) &#x0024;7900","dc:type":"text","dc:language":"en-us","dc:date":"2014-08-04T15:00:25-05:00","description":"* if interested, please text or call. No emails will be responded to - unfortunately there are too many spammers out there ** \nI have a Sprint Fun Sport for sale. This boat has a 175 hp Johnson 2-stroke fast strike engine with a stainless steel prop. [...]","dc:rights":"&copy; 2014 <span class=\"desktop\">craigslist</span><span class=\"mobile\">CL</span>","rdf:about":"http://austin.craigslist.org/boa/4602729928.html","dc:source":"http://austin.craigslist.org/boa/4602729928.html","enc:enclosure":{"resource":"http://images.craigslist.org/00K0K_a32cL6YTdeK_300x300.jpg","type":"image/jpeg"},"title":"Sprint Fun Sport 21.5 - Reduced Price (NW Austin (620)) &#x0024;7900","dcterms:issued":"2014-08-04T15:00:25-05:00"},{"link":"http://austin.craigslist.org/for/4587184557.html","dc:title":"SPRINGY METAL GARDEN FUN DOG ORNAMENT (NW AUSTIN) &#x0024;40","dc:type":"text","dc:language":"en-us","dc:date":"2014-08-04T14:21:12-05:00","description":"SPRINGY METAL GARDEN FUN DOG ORNAMENTS. THREE PIECES ARE AVAILABLE. YOU MAY BUY ONE PIECE FOR $40.00 or ALL THREE PIECES for $100.00. On all three pieces both the tails and heads of the ornaments move in the breeze attached to the bodies by metal coi [...]","dc:rights":"&copy; 2014 <span class=\"desktop\">craigslist</span><span class=\"mobile\">CL</span>","rdf:about":"http://austin.craigslist.org/for/4587184557.html","dc:source":"http://austin.craigslist.org/for/4587184557.html","enc:enclosure":{"resource":"http://images.craigslist.org/00L0L_7mt8kCkvb65_300x300.jpg","type":"image/jpeg"},"title":"SPRINGY METAL GARDEN FUN DOG ORNAMENT (NW AUSTIN) &#x0024;40","dcterms:issued":"2014-08-04T14:21:12-05:00"},{"link":"http://austin.craigslist.org/atq/4555733114.html","dc:title":"Antique Chair - Fun &amp; Unique (Georgetown Area) &#x0024;49","dc:type":"text","dc:language":"en-us","dc:date":"2014-08-03T21:33:43-05:00","description":"Unique Fun Chair - Antique Solid Wood - Very Sturdy - Front Wheels \nGreat the way it is but could also be recovered . . . painted . . . refinished! You decide!! \nMeasures: \n33\" Tall \n18\" Wide \n17\" Deep \n14.5\" - Floor to Seat \nAsking: $49 \nCash Only \n [...]","dc:rights":"&copy; 2014 <span class=\"desktop\">craigslist</span><span class=\"mobile\">CL</span>","rdf:about":"http://austin.craigslist.org/atq/4555733114.html","dc:source":"http://austin.craigslist.org/atq/4555733114.html","enc:enclosure":{"resource":"http://images.craigslist.org/00p0p_fhPMKtMoPSQ_300x300.jpg","type":"image/jpeg"},"title":"Antique Chair - Fun &amp; Unique (Georgetown Area) &#x0024;49","dcterms:issued":"2014-08-03T21:33:43-05:00"},{"link":"http://austin.craigslist.org/tix/4601691910.html","dc:title":"fun fun fun show Nov 8&amp;9 Austin &#x0024;140","dc:type":"text","dc:language":"en-us","dc:date":"2014-08-03T19:08:20-05:00","description":"http://funfunfunfest.com/ \nsat & sun tickets (november 9th and 10th). i'm in northern California and was going to attend, but cant now. tix values at $170 ","dc:rights":"&copy; 2014 <span class=\"desktop\">craigslist</span><span class=\"mobile\">CL</span>","rdf:about":"http://austin.craigslist.org/tix/4601691910.html","dc:source":"http://austin.craigslist.org/tix/4601691910.html","title":"fun fun fun show Nov 8&amp;9 Austin &#x0024;140","dcterms:issued":"2014-08-03T19:08:20-05:00"},{"link":"http://austin.craigslist.org/tag/4601181729.html","dc:title":"Fun and Learning laptops and toys (nw austin) &#x0024;10","dc:type":"text","dc:language":"en-us","dc:date":"2014-08-03T13:20:26-05:00","description":"Few educational , fun and learning toys: \n- Vtech Thomas & Friends laptop; learn numbers, letters and music: $10 \n- Vtech Tote & Go Laptop Plus; letters, numbers, game and music: $10 \n- Vtech SpongeBob Laptop; word challenge, math, logic, creativity  [...]","dc:rights":"&copy; 2014 <span class=\"desktop\">craigslist</span><span class=\"mobile\">CL</span>","rdf:about":"http://austin.craigslist.org/tag/4601181729.html","dc:source":"http://austin.craigslist.org/tag/4601181729.html","enc:enclosure":{"resource":"http://images.craigslist.org/00l0l_8VuO3IHjh41_300x300.jpg","type":"image/jpeg"},"title":"Fun and Learning laptops and toys (nw austin) &#x0024;10","dcterms:issued":"2014-08-03T13:20:26-05:00"},{"link":"http://austin.craigslist.org/boa/4583445378.html","dc:title":"- S K I / F I S H / FUN - 1998 Starcraft Ski Boat 17' - !  (620 (Steiner ranch)) &#x0024;2550","dc:type":"text","dc:language":"en-us","dc:date":"2014-08-02T07:04:12-05:00","description":"For sale: 1998 Starcraft 17' V-hull ski/fish/fun! Please do not low ball me. This boat is worth about $45-5k. This is why it is priced accordingly. \nPLEASE READ AD CAREFULLY before calling/texting. I will list As much info as possible. \nBAD: the boat [...]","dc:rights":"&copy; 2014 <span class=\"desktop\">craigslist</span><span class=\"mobile\">CL</span>","rdf:about":"http://austin.craigslist.org/boa/4583445378.html","dc:source":"http://austin.craigslist.org/boa/4583445378.html","enc:enclosure":{"resource":"http://images.craigslist.org/00F0F_cvN4EMi7kY9_300x300.jpg","type":"image/jpeg"},"title":"- S K I / F I S H / FUN - 1998 Starcraft Ski Boat 17' - !  (620 (Steiner ranch)) &#x0024;2550","dcterms:issued":"2014-08-02T07:04:12-05:00"},{"link":"http://austin.craigslist.org/fod/4598316079.html","dc:title":"FUN FOR THE WHOLE FAMILY    (We Deliver &amp; Install)  ((****Anywhere****))","dc:type":"text","dc:language":"en-us","dc:date":"2014-08-01T14:32:09-05:00","description":"Today, your child will go to the moon. Tomorrow, to the center ring of the circus. Last week, they were sailing the seven seas with their imagination engaged on their Glick's Woodworking custom play system. \nImagine any Dream with Glick's Woodworking [...]","dc:rights":"&copy; 2014 <span class=\"desktop\">craigslist</span><span class=\"mobile\">CL</span>","rdf:about":"http://austin.craigslist.org/fod/4598316079.html","dc:source":"http://austin.craigslist.org/fod/4598316079.html","enc:enclosure":{"resource":"http://images.craigslist.org/00V0V_8uflMjmSxyl_300x300.jpg","type":"image/jpeg"},"title":"FUN FOR THE WHOLE FAMILY    (We Deliver &amp; Install)  ((****Anywhere****))","dcterms:issued":"2014-08-01T14:32:09-05:00"},{"link":"http://austin.craigslist.org/bab/4593021087.html","dc:title":"Fisher-Price Baby Bouncer - Forest Fun  &#x0024;10","dc:type":"text","dc:language":"en-us","dc:date":"2014-07-29T11:11:20-05:00","description":"Fisher Price bouncer $10 \nhttp://www.target.com/p/fisher-price-baby-bouncer-forest-fun/-/A-14297076?ref=tgt_adv_XSG10001&AFID=google_pla_df&LNM=14297076&CPNG=Baby&kpid=14297076&LID=9pgs&ci_src=17588969&ci_sku=14297076&kpid=14297076&gclid=CJnZ_obz6r8C [...]","dc:rights":"&copy; 2014 <span class=\"desktop\">craigslist</span><span class=\"mobile\">CL</span>","rdf:about":"http://austin.craigslist.org/bab/4593021087.html","dc:source":"http://austin.craigslist.org/bab/4593021087.html","enc:enclosure":{"resource":"http://images.craigslist.org/00H0H_8qaDxwzGl4n_300x300.jpg","type":"image/jpeg"},"title":"Fisher-Price Baby Bouncer - Forest Fun  &#x0024;10","dcterms:issued":"2014-07-29T11:11:20-05:00"},{"link":"http://austin.craigslist.org/boa/4544609986.html","dc:title":"One of A Kind, FUN BOAT &#x0024;3000","dc:type":"text","dc:language":"en-us","dc:date":"2014-07-27T13:39:28-05:00","description":"ONE OF A KIND AND HARD TO FIND \"FUN BOAT\" - THIS IS A 1987 BUILT RACING BOAT. IT COMES WITH A 25 HP, 2 CYCLE MERCURY OUT BOARD MOTOR. IT IS A TWO SEATER AND HAS A KEY IGNITION START. THE 5 GALLON FUEL OIL MIXED SYSTEM WILL KEEP YOU OUT ON THE WATER F [...]","dc:rights":"&copy; 2014 <span class=\"desktop\">craigslist</span><span class=\"mobile\">CL</span>","rdf:about":"http://austin.craigslist.org/boa/4544609986.html","dc:source":"http://austin.craigslist.org/boa/4544609986.html","enc:enclosure":{"resource":"http://images.craigslist.org/00d0d_eVTKTZSqrwK_300x300.jpg","type":"image/jpeg"},"title":"One of A Kind, FUN BOAT &#x0024;3000","dcterms:issued":"2014-07-27T13:39:28-05:00"}]]

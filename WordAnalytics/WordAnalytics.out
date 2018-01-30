@@ -1,0 +1,59 @@
+Number of words = 3002.
+
+Number of letters = 16571.
+
+Number of symbols = 624.
+
+Top three most common words: ut in sed.
+
+Top three most common letters: e i u.
+
+Most common first word in paragraph: .
+
+Words only used once:
+inceptos torquent nostra conubia taciti sociosqu himenaeos potenti class ad litora aptent.
+
+Letters not used: w x y k z.
+56, 9, 1
+$VAR1 = 'Donec';
+$VAR2 = 2;
+$VAR3 = 'Suspendisse';
+$VAR4 = 1;
+$VAR5 = '';
+$VAR6 = 29;
+$VAR7 = 'Etiam';
+$VAR8 = 1;
+$VAR9 = 'Morbi';
+$VAR10 = 1;
+$VAR11 = 'Vestibulum';
+$VAR12 = 3;
+$VAR13 = 'Cras';
+$VAR14 = 1;
+$VAR15 = 'Pellentesque';
+$VAR16 = 2;
+$VAR17 = 'Phasellus';
+$VAR18 = 1;
+$VAR19 = 'Nunc';
+$VAR20 = 3;
+$VAR21 = 'Lorem';
+$VAR22 = 1;
+$VAR23 = 'Sed';
+$VAR24 = 2;
+$VAR25 = 'Integer';
+$VAR26 = 1;
+$VAR27 = 'Vivamus';
+$VAR28 = 2;
+$VAR29 = 'Maecenas';
+$VAR30 = 1;
+$VAR31 = 'Curabitur';
+$VAR32 = 1;
+$VAR33 = 'In';
+$VAR34 = 2;
+$VAR35 = 'Aliquam';
+$VAR36 = 2;
+$VAR37 = 'Nam';
+$VAR38 = 1;
+$VAR39 = 'Proin';
+$VAR40 = 2;
+
+1, 3

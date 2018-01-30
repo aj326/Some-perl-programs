@@ -1,0 +1,816 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"badWordsFile"
+			],
+			[
+				"for",
+				"foreach"
+			],
+			[
+				"Conwa",
+				"ConwayCell"
+			],
+			[
+				"_",
+				"_grid"
+			],
+			[
+				"_g",
+				"_gen"
+			],
+			[
+				"liv",
+				"livingNeighbors"
+			],
+			[
+				"Fre",
+				"FredkinCell"
+			],
+			[
+				"li",
+				"livingNeighbors"
+			],
+			[
+				"retur",
+				"return	@return"
+			],
+			[
+				"ret",
+				"return	@return"
+			],
+			[
+				"retu",
+				"returns	-> decltype(...)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "BadWordFilter.pl",
+			"settings":
+			{
+				"buffer_size": 764,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "BadWordFilter.out",
+			"settings":
+			{
+				"buffer_size": 3444,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "badwords.txt",
+			"settings":
+			{
+				"buffer_size": 3229,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "BadWordFilter.in",
+			"settings":
+			{
+				"buffer_size": 3486,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet fp",
+				"Snippet: Vector For Loop"
+			],
+			[
+				"ori",
+				"Origami: Create Pane Below"
+			],
+			[
+				"ctag",
+				"CTags: Show Symbols (all)"
+			],
+			[
+				"for",
+				"Snippet: For Loop"
+			],
+			[
+				"git:pu",
+				"Git: Push"
+			],
+			[
+				"git:co",
+				"Git: Commit"
+			],
+			[
+				"git:add",
+				"Git: Add..."
+			],
+			[
+				"git",
+				"Git: Gui"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"cscop",
+				"Cscope: Look up symbol"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"hig",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"white",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"CTags: Show Symbols (all)"
+			],
+			[
+				"cscope",
+				"Cscope: Look up global definition"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"REMOVE",
+				"Package Control: Remove Package"
+			],
+			[
+				"STACK",
+				"Stackoverflow: Search Selection"
+			],
+			[
+				"ctags",
+				"Package Control: Discover Packages"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"sideb",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"package re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Git",
+				"GitHub: Switch Accounts"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"perl",
+				"Set Syntax: Perl"
+			],
+			[
+				"snip",
+				"Snippet: testing"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"snipp",
+				"Snippet: abstract"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"help()",
+			"help",
+			"print($1)",
+			"print ($1)",
+			"print $1",
+			"pwd",
+			"ls",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/ahmed/Dropbox/Code/perl/Bad Word Filter/clean.txt",
+		"/home/ahmed/Dropbox/Code/perl/Bad Word Filter/test.txt",
+		"/home/ahmed/Dropbox/Code/perl/Bad Word Filter/badwords.zip",
+		"/home/ahmed/Dropbox/Code/perl/Bad Word Filter/BadWordFilter.in",
+		"/home/ahmed/Dropbox/Code/perl/Bad Word Filter/badwords.txt",
+		"/home/ahmed/Dropbox/Code/perl/Bad Word Filter/BadWordFilter.sublime-project",
+		"/home/ahmed/Dropbox/Code/perl/Bad Word Filter/badwords.pl",
+		"/home/ahmed/Dropbox/Code/perl/final/tester.pl",
+		"/home/ahmed/Dropbox/Code/perl/pangrams.pl",
+		"/home/ahmed/Dropbox/Code/perl/pangrams.in",
+		"/home/ahmed/Dropbox/Code/perl/GM_superpac/parse_cand_com.pl",
+		"/home/ahmed/Dropbox/Code/perl/email2.pl",
+		"/home/ahmed/Dropbox/Code/perl/wordfreq.pl",
+		"/home/ahmed/Dropbox/Code/perl/parseiPodNotes.pl",
+		"/home/ahmed/scripts/writings",
+		"/home/ahmed/Dropbox/Code/perl/stringTransposition.pl",
+		"/home/ahmed/.config/sublime-text-3/Packages/User/Perl/start.sublime-snippet",
+		"/home/ahmed/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/ahmed/Dropbox/Code/perl/playOnWordsGraph.pl",
+		"/home/ahmed/Dropbox/Code/CS371p/cs371p-life/Life.h",
+		"/home/ahmed/Dropbox/Code/CS371p/cs371p-life/AbstractCell.h",
+		"/home/ahmed/Dropbox/Code/CS371p/cs371p-life/ConwayCell.h",
+		"/home/ahmed/Dropbox/Code/CS371p/cs371p-life/AbstractCell.c++",
+		"/home/ahmed/Dropbox/Code/CS371p/cs371p-life/ConwayCell.c++",
+		"/home/ahmed/Dropbox/Code/CS371p/cs371p-life/FredkinCell.c++",
+		"/home/ahmed/Dropbox/Code/CS371p/cs371p-life/RunLife.out",
+		"/home/ahmed/Dropbox/Code/CS371p/cs371p-life/FredkinCell.h",
+		"/home/ahmed/Dropbox/Code/CS371p/cs371p-life/Cell.h",
+		"/home/ahmed/Dropbox/Code/CS371p/cs371p-life/RunLifeCell.in",
+		"/home/ahmed/Dropbox/Code/CS371p/cs371p-life/RunLifeConway.in",
+		"/home/ahmed/Dropbox/Code/CS371p/cs371p-life/RunLife.c++",
+		"/home/ahmed/Dropbox/Code/CS371p/cs371p-life/Handle.h",
+		"/home/ahmed/Dropbox/Code/CS371p/cs371p-life/makefile.c++",
+		"/home/ahmed/Dropbox/Code/CS371p/cs371p-life/Cell.c++",
+		"/home/ahmed/Dropbox/Code/CS371p/cs371p-life/TestLife.c++",
+		"/home/ahmed/Dropbox/Code/CS371p/cs371p-life/TestLife",
+		"/home/ahmed/Dropbox/Code/CS371p/cs371p-life/TestLife.out",
+		"/home/ahmed/Dropbox/Code/CS371p/cs371p-life/life.sublime-workspace",
+		"/home/ahmed/Dropbox/Code/CS371p/cs371p-life/AJ_errors.txt",
+		"/home/ahmed/Dropbox/Code/CS371p/voting/TestVoting.c++",
+		"/home/ahmed/.config/sublime-text-3/Packages/CTags/CTags.sublime-settings",
+		"/home/ahmed/.config/sublime-text-3/Packages/User/Default.sublime-keymap",
+		"/home/ahmed/.config/sublime-text-3/Packages/Zen Tabs/ZenTabs.sublime-settings",
+		"/home/ahmed/.config/sublime-text-3/Packages/User/ZenTabs.sublime-settings",
+		"/home/ahmed/.config/sublime-text-3/Packages/Zen Tabs/Default.sublime-keymap",
+		"/home/ahmed/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/ahmed/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/ahmed/.config/sublime-text-3/Packages/HighlightWhitespaces/README.md",
+		"/home/ahmed/.config/sublime-text-3/Packages/HighlightWhitespaces/highlight_whitespaces.sublime-settings",
+		"/home/ahmed/life2-git/ConwayCell.h",
+		"/home/ahmed/life2-git/FredkinCell.h",
+		"/home/ahmed/life2-git/ConwayCell.c++",
+		"/home/ahmed/life2-git/AbstractCell.c++",
+		"/home/ahmed/life2-git/AbstractCell.h",
+		"/home/ahmed/life2-git/FredkinCell.c++",
+		"/home/ahmed/.config/sublime-text-3/Packages/sublime-github/GitHub.sublime-settings",
+		"/home/ahmed/.config/sublime-text-3/Packages/User/GitHub.sublime-settings",
+		"/home/ahmed/.config/sublime-text-3/Packages/SideBarEnhancements/CHANGELOG",
+		"/home/ahmed/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/ahmed/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+		"/home/ahmed/.config/sublime-text-3/Packages/User/InsertDate/insert_date.sublime-settings",
+		"/home/ahmed/.config/sublime-text-3/Packages/User/insert_date.sublime-settings",
+		"/home/ahmed/.config/sublime-text-3/Packages/InsertDate/README.md",
+		"/home/ahmed/.config/sublime-text-3/Packages/InsertDate/insert_date.sublime-settings",
+		"/home/ahmed/.config/sublime-text-3/Packages/User/pluginTest.py",
+		"/home/ahmed/.config/sublime-text-3/Packages/User/InsertDate/Default.sublime-keymap",
+		"/home/ahmed/Dropbox/Code/perl/stringLength.pl",
+		"/home/ahmed/.config/sublime-text-3/Packages/User/perl_start.sublime-snippet",
+		"/home/ahmed/.config/sublime-text-3/Packages/User/perl.setup.sublime.snippet",
+		"/home/ahmed/.config/sublime-text-3/Packages/User/testing.sublime-snippet",
+		"/home/ahmed/Dropbox/Code/perl/permute.pl",
+		"/home/ahmed/.config/sublime-text-3/Installed Packages/Vintageous.sublime-package",
+		"/home/ahmed/.config/sublime-text-3/Packages/User/vintageous_toggler.py"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"3",
+			"stack",
+			"jerkface",
+			"stack",
+			"badWords",
+			"badwords",
+			"badWords",
+			"badwords",
+			"badWords",
+			"say",
+			"sauy",
+			"say",
+			"$+{f}",
+			"0",
+			"$sentence",
+			"strings",
+			"int",
+			"prunsigned",
+			"unsigned unsigned int",
+			"int",
+			", \"RunLifeConway.out\"",
+			",\"RunLifeConway.out\"",
+			");\n",
+			";\n",
+			"x-1",
+			"_grid",
+			"ConwayCell",
+			"_isAlive",
+			"\\w._isAlive",
+			"Cell y ?\\(\\w+\\)",
+			"Cell x.?\\((\\w+|\\d)\\)",
+			"ConwayCell",
+			"AbstractCell_h",
+			"&&",
+			" &&  \\)",
+			"x",
+			"true",
+			"\n	",
+			"false",
+			"true",
+			"ConwayCell x\\(\\d+\\);",
+			"ConwayCell x(\\d);",
+			"ConwayCell x(true, 77);",
+			"x._age == \\d+",
+			"&& (x._age != y._age)",
+			"&& (x._age == y._age)",
+			"FredkinCell",
+			"x.exists()",
+			"c++",
+			"flagForEvolution",
+			"bool",
+			"FredkinCell",
+			"create",
+			"FredkinCell",
+			"kill",
+			"Fredkin",
+			"virtual",
+			"TEST(FredkinCell, flagForEvolution",
+			"flagForEvolution",
+			"_deathFalg",
+			"evolve",
+			"_isAlive",
+			"FredkinCell",
+			"AbstractCell_h",
+			"false",
+			"true",
+			"write_1",
+			"formatAge",
+			"neighbors",
+			"existence",
+			"read",
+			"AbstractCell",
+			"true if equal, false o.w.",
+			"GitHub",
+			"\n",
+			"keys",
+			"	{ \"keys\": [\"alt+f3\"], \"command\": \"find_all_under\" },\n	{ \"keys\": [\"ctrl+e\"], \"command\": \"slurp_find_string\" },\n	{ \"keys\": [\"ctrl+shift+e\"], \"command\": \"slurp_replace_string\" },\n	{ \"keys\": [\"ctrl+shift+f\"], \"command\": \"show_panel\", \"args\": {\"panel\": \"find_in_files\"} },\n	{ \"keys\": [\"f4\"], \"command\": \"next_result\" },\n",
+			"keys",
+			"alt+f3\"], \"command\": \"find_all_under\" },",
+			"alt",
+			"f3\"], \"command\": \"find_all_under\" },",
+			"alt+f",
+			"{",
+			"false",
+			"close"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$string",
+			"print",
+			"unsigned int",
+			"exists()",
+			"Cell y",
+			"Cell x",
+			"Cell",
+			"Life_h",
+			")",
+			"ConwayCell x;",
+			"ConwayCell x(true);",
+			"",
+			"ConwayCell",
+			"AbstractCell",
+			"Conway",
+			"TEST(FredkinCell, evolve",
+			"evolve",
+			"_deathFlag",
+			"flagForEvolution",
+			"AbstractCell::exists()"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "BadWordFilter.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 764,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								355,
+								355
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"highlight_line": false,
+							"syntax": "Packages/Perl/Perl.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"vintage":
+							{
+								"_bottom_top": false,
+								"action": null,
+								"action_digits":
+								[
+								],
+								"cancel_action": false,
+								"expecting_register": false,
+								"expecting_user_input": false,
+								"mode": 2,
+								"motion": null,
+								"motion_digits":
+								[
+								],
+								"next_mode": 2,
+								"next_mode_command": null,
+								"register": null,
+								"stashed_action": null,
+								"user_action_input": null,
+								"user_input": null,
+								"user_motion_input": null,
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "BadWordFilter.out",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3444,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"vintage":
+							{
+								"action": null,
+								"action_digits":
+								[
+								],
+								"cancel_action": false,
+								"expecting_register": false,
+								"expecting_user_input": false,
+								"mode": 2,
+								"motion": null,
+								"motion_digits":
+								[
+								],
+								"next_mode": 2,
+								"next_mode_command": null,
+								"register": null,
+								"stashed_action": null,
+								"user_action_input": null,
+								"user_input": null,
+								"user_motion_input": null,
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "badwords.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3229,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								80,
+								80
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"vintage":
+							{
+								"action": null,
+								"action_digits":
+								[
+								],
+								"cancel_action": false,
+								"expecting_register": false,
+								"expecting_user_input": false,
+								"mode": 2,
+								"motion": null,
+								"motion_digits":
+								[
+								],
+								"next_mode": 2,
+								"next_mode_command": null,
+								"register": null,
+								"stashed_action": null,
+								"user_action_input": null,
+								"user_input": null,
+								"user_motion_input": null,
+								"xpos": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "BadWordFilter.in",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3486,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1035,
+								1035
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"vintage":
+							{
+								"_bottom_top": false,
+								"action": null,
+								"action_digits":
+								[
+								],
+								"cancel_action": false,
+								"expecting_register": false,
+								"expecting_user_input": false,
+								"mode": 1,
+								"motion": null,
+								"motion_digits":
+								[
+								],
+								"next_mode": 2,
+								"next_mode_command": null,
+								"register": null,
+								"stashed_action": null,
+								"user_action_input": null,
+								"user_input": null,
+								"user_motion_input": null,
+								"xpos": 288
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.509735744089,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 130.0
+	},
+	"project": "BadWordFilter.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"AbstractCell.h"
+			],
+			[
+				".c++",
+				"Cell.c++"
+			],
+			[
+				".h",
+				"AbstractCell.h"
+			],
+			[
+				"ce",
+				"Cell.c++"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 75.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+		"vintage":
+		{
+			"_cmdline_cd": "/home/ahmed/Dropbox/Code/perl/Bad Word Filter",
+			"last_buffer_search": "\\bbool\\b"
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 162.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,13 @@
+#!/usr/bin/perl
+# Ahmed AlJehairan
+# ahmed24633@gmail.com
+# GitHub: aj326
+use v5.10;
+use strict;
+#######################
+system 'chmod +x *.pl';
+my $name = `ls *.pl`;
+# print $name;
+$name =~ /(.+)\.pl/;
+my $cmd = ".\/$1."."pl < $1.in > $1.out; cat $1.out";
+system ($cmd);
